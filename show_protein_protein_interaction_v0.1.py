@@ -1,3 +1,6 @@
+'''
+modified from cadd学习笔记 
+'''
 from pymol import cmd
 from pymol.cmd import util
 import sys
